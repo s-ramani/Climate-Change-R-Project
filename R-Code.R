@@ -325,10 +325,6 @@ plot_grid(plot1, plot2)
 #increased learning or literacy has an impact on the co2 levels itself. It might be the additional income earned and occupations attained through increased literacy 
 #that might lead to increased use of natural gas, among other things. These are all hidden and is not the direct causal factor. 
 
-#part c
-
-#This link is broken and is not opening up for me to do the excercise. 
-
 
 
 
